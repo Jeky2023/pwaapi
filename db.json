@@ -1,0 +1,24 @@
+{
+"products": [
+{"id": 1,"name": "American bighorn sheep","category": "Violet"}, 
+ {"id": 2,"name": "Blacksmith plover","category": "Yellow"}, 
+ {"id": 3,"name": "Pelican, australian","category": "Teal"}, 
+ {"id": 4,"name": "Capuchin, brown","category": "Purple"}, 
+ {"id": 5,"name": "Woodpecker, downy","category": "Khaki"}, 
+ {"id": 6,"name": "Common turkey","category": "Purple"}, 
+ {"id": 7,"name": "Prehensile-tailed porcupine","category": "Crimson"}, 
+ {"id": 8,"name": "Weaver, white-browed sparrow","category": "Purple"}, 
+ {"id": 9,"name": "Tortoise, radiated","category": "Crimson"}, 
+ {"id": 10,"name": "African buffalo","category": "Blue"}, 
+ {"id": 11,"name": "Gecko, bent-toed","category": "Aquamarine"}, 
+ {"id": 12,"name": "Golden jackal","category": "Aquamarine"}, 
+ {"id": 13,"name": "Oriental short-clawed otter","category": "Fuscia"}, 
+ {"id": 14,"name": "Owl, australian masked","category": "Maroon"}, 
+ {"id": 15,"name": "Magellanic penguin","category": "Turquoise"}, 
+ {"id": 16,"name": "Jaeger, long-tailed","category": "Teal"}, 
+ {"id": 17,"name": "Brown lemur","category": "Maroon"},
+ {"id": 18,"name": "Sacred ibis","category": "Indigo"}, 
+ {"id": 19,"me": "Whale, long-finned pilot","category": "Khaki"}, 
+ {"id": 20,"name": "Southern elephant seal","category": "Maroon"}
+ ]
+}
